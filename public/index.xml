@@ -1,239 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on</title><link>//localhost:1313/</link><description>Recent content in Introduction on</description><generator>Hugo</generator><language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>//localhost:1313/docs/computerarchitecture/lab-week-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/computerarchitecture/lab-week-2/</guid><description>&lt;h1 id="lab-week-2">
- Lab Week 2
- &lt;a class="anchor" href="#lab-week-2">#&lt;/a>
-&lt;/h1>
-&lt;details >&lt;summary>What are the main units of the cpu?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is memory hierarchy? Why do we need it?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>For what communication bus is used for?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What registers are used for?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What does the Control Unit?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What does the Arithmetic Logic Unit?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What System Memory is used for?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Which Fundamental Ideas of Computer Architecture do you know?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What states the Moores Law?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a Moore&amp;#39;s Law stagnation? Why does it happen?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What does Performance via Parallelism mean?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the major problem with it?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What does Performance via Pipelining mean?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What Pipeline steps do you remember?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>IF: Instruction Fetch
-ID: Instruction Decode
-EX: Execution
-MEM: Memory access (optional stage)
-WB: register Write Back&lt;/p></description></item><item><title/><link>//localhost:1313/docs/computerarchitecture/lab-week-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/computerarchitecture/lab-week-3/</guid><description>&lt;h1 id="lab-week-3">
- Lab Week 3
- &lt;a class="anchor" href="#lab-week-3">#&lt;/a>
-&lt;/h1>
-&lt;details >&lt;summary>What are the main units of the cpu?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img1.jpg" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What architecture is used nowadays?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the Latency?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the Execution time?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the Throughput?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Latency vs Throughput?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the Bandwidth?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Bandwidth vs Throughput?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the Utilization?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the CPU clock?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What are universal logic gates?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Which universal gates do you know?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Why do we need universal logic gates?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>Universal logic gates are important because they can be used to simplify the design of digital circuits. By using universal logic gates, engineers can reduce the number of different types of gates that need to be used in a circuit. This can make the circuit more efficient and easier to design.&lt;/p></description></item><item><title/><link>//localhost:1313/docs/computerarchitecture/lab-week-4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/computerarchitecture/lab-week-4/</guid><description>&lt;h1 id="lab-week-4">
- Lab Week 4
- &lt;a class="anchor" href="#lab-week-4">#&lt;/a>
-&lt;/h1>
-&lt;details >&lt;summary>What are building blocks for logic gates?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a transistor?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img2.jpg" alt="alt" />
-
- &lt;img src="//localhost:1313/images/img3.jpg" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the propagation delay?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img4.jpg" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the least significant bit in binary value?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the most significant bit in binary value?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What means carry-out bit?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What means carry-in bit?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is half-adder?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is full-adder?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img10.png" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a Combinational Logic Circuit?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a Critical Path?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a Sequential Logic Circuit?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details></description></item><item><title/><link>//localhost:1313/docs/computerarchitecture/lab-week-7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/computerarchitecture/lab-week-7/</guid><description>&lt;h1 id="lab-week-7md">
- Lab Week 7.md
- &lt;a class="anchor" href="#lab-week-7md">#&lt;/a>
-&lt;/h1>
-&lt;details >&lt;summary>What is a multiplexer?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Which logic gates will be used to implement 2-to-1 multiplexer?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img5.png" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a demultiplexer?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img6.jpg" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a decoder?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img7.jpg" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is an encoder?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img8.jpg" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>How to compose X-to-Y multiplexor?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img9.jpg" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is S/R Latch?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the implementation of S/R latch?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img12.png" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is a time diagram?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img13.png" alt="alt" />&lt;/p>
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the propagation delay?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Which problem with synchronization do we face without clock?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>
- &lt;img src="//localhost:1313/images/img15.png" alt="alt" />&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on </title>
+    <link>/</link>
+    <description>Recent content in Introduction on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/docs/computerarchitecture/lab-week-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/computerarchitecture/lab-week-2/</guid>
+      <description>&lt;h1 id=&#34;lab-week-2&#34;&gt;&#xA;  Lab Week 2&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lab-week-2&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;details &gt;&lt;summary&gt;What are the main units of the cpu?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is memory hierarchy? Why do we need it?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;For what communication bus is used for?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What registers are used for?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What does the Control Unit?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What does the Arithmetic Logic Unit?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What System Memory is used for?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;Which Fundamental Ideas of Computer Architecture do you know?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What states the Moores Law?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a Moore&amp;#39;s Law stagnation? Why does it happen?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What does Performance via Parallelism mean?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the major problem with it?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What does Performance via Pipelining mean?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What Pipeline steps do you remember?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;IF: Instruction Fetch&#xA;ID: Instruction Decode&#xA;EX: Execution&#xA;MEM: Memory access (optional stage)&#xA;WB: register Write Back&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/docs/computerarchitecture/lab-week-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/computerarchitecture/lab-week-3/</guid>
+      <description>&lt;h1 id=&#34;lab-week-3&#34;&gt;&#xA;  Lab Week 3&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lab-week-3&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;details &gt;&lt;summary&gt;What are the main units of the cpu?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img1.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What architecture is used nowadays?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the Latency?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the Execution time?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the Throughput?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;Latency vs Throughput?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the Bandwidth?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;Bandwidth vs Throughput?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the Utilization?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the CPU clock?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What are universal logic gates?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;Which universal gates do you know?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;Why do we need universal logic gates?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;Universal logic gates are important because they can be used to simplify the design of digital circuits. By using universal logic gates, engineers can reduce the number of different types of gates that need to be used in a circuit. This can make the circuit more efficient and easier to design.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/docs/computerarchitecture/lab-week-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/computerarchitecture/lab-week-4/</guid>
+      <description>&lt;h1 id=&#34;lab-week-4&#34;&gt;&#xA;  Lab Week 4&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lab-week-4&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;details &gt;&lt;summary&gt;What are building blocks for logic gates?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a transistor?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img2.jpg&#34; alt=&#34;alt&#34; /&gt;&#xA;&#xA;  &lt;img src=&#34;/images/img3.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the propagation delay?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img4.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the least significant bit in binary value?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the most significant bit in binary value?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What means carry-out bit?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What means carry-in bit?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is half-adder?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is full-adder?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img10.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a Combinational Logic Circuit?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a Critical Path?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a Sequential Logic Circuit?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/docs/computerarchitecture/lab-week-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/computerarchitecture/lab-week-7/</guid>
+      <description>&lt;h1 id=&#34;lab-week-7md&#34;&gt;&#xA;  Lab Week 7.md&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lab-week-7md&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a multiplexer?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;Which logic gates will be used to implement 2-to-1 multiplexer?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img5.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a demultiplexer?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img6.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a decoder?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img7.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is an encoder?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img8.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;How to compose X-to-Y multiplexor?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img9.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is S/R Latch?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the implementation of S/R latch?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img12.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is a time diagram?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img13.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;What is the propagation delay?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/details&gt;&#xA;&lt;details &gt;&lt;summary&gt;Which problem with synchronization do we face without clock?&lt;/summary&gt;&#xA;  &lt;div class=&#34;markdown-inner&#34;&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;/images/img15.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
