@@ -1,4 +1,4 @@
-# Lab Week 7.md
+# Lab Week 7
 
 {{% details "What is a multiplexer?" %}}
 
