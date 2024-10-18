@@ -28,18 +28,6 @@
 
 {{% /details %}}
 
-{{% details "Can Combinational logic circuit be Synchronous?" %}}
-
-{{% /details %}}
-
-{{% details "Can Sequential logic circuit be Asynchronous?" %}}
-
-{{% /details %}}
-
-{{% details "Compare Synchronous and Asynchronous in terms of Reliability, Memory element presence, Speed, Power Consumption, and Logical Complexity. Give Sample use cases." %}}
-
-{{% /details %}}
-
 {{% details "What is the difference between Volatile and Non-Volatile memory?" %}}
 
 {{% /details %}}
@@ -52,14 +40,14 @@
   Magnetic disks (HDD)
 {{% /details %}}
 
-{{% details "Whuch building block are used to build SRAM memory units?" %}}
+{{% details "Which building block are used to build SRAM memory units?" %}}
 transistors
 {{% /details %}}
 
-{{% details "Whuch building block are used to build SRAM memory units?" %}}
+{{% details "Which building block are used to build DRAM memory units?" %}}
 transistors + capacitors
 {{% /details %}}
 
 {{% details "Compare SRAM and DRAM memory types in terms of Speed, Cost, and Power Consumption" %}}
-![alt](/images/img18.png)
+![alt](/images/img20.png)
 {{% /details %}}

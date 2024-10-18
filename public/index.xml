@@ -274,18 +274,6 @@ WB: register Write Back&lt;/p></description></item><item><title/><link>//localho
  &lt;div class="markdown-inner">
  &lt;/div>
 &lt;/details>
-&lt;details >&lt;summary>Can Combinational logic circuit be Synchronous?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Can Sequential logic circuit be Asynchronous?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>Compare Synchronous and Asynchronous in terms of Reliability, Memory element presence, Speed, Power Consumption, and Logical Complexity. Give Sample use cases.&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
 &lt;details >&lt;summary>What is the difference between Volatile and Non-Volatile memory?&lt;/summary>
  &lt;div class="markdown-inner">
  &lt;/div>
