@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on</title><link>//localhost:1313/</link><description>Recent content in Introduction on</description><generator>Hugo</generator><language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>//localhost:1313/docs/computerarchitecture/lab-week-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/computerarchitecture/lab-week-2/</guid><description>&lt;h1 id="lab-week-2">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on</title><link>//localhost:1313/</link><description>Recent content in Introduction on</description><generator>Hugo</generator><language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>//localhost:1313/docs/computerarchitecture/lab-week-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/computerarchitecture/lab-week-10/</guid><description>&lt;h1 id="lab-week-10">
+ Lab Week 10
+ &lt;a class="anchor" href="#lab-week-10">#&lt;/a>
+&lt;/h1>
+&lt;details >&lt;summary>What is the difference between Volatile and Non-Volatile memory?&lt;/summary>
+ &lt;div class="markdown-inner">
+ &lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>What memory types do you know?&lt;/summary>
+ &lt;div class="markdown-inner">
+&lt;p>DRAM
+SRAM
+ROM
+Flash (SSD)
+Magnetic disks (HDD)&lt;/p>
+ &lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>Which building block are used to build SRAM memory units?&lt;/summary>
+ &lt;div class="markdown-inner">
+&lt;p>transistors&lt;/p>
+ &lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>Which building block are used to build DRAM memory units?&lt;/summary>
+ &lt;div class="markdown-inner">
+&lt;p>transistors + capacitors&lt;/p>
+ &lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>Compare SRAM and DRAM memory types in terms of Speed, Cost, and Power Consumption&lt;/summary>
+ &lt;div class="markdown-inner">
+&lt;p>
+ &lt;img src="//localhost:1313/images/img20.png" alt="alt" />&lt;/p>
+ &lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>Which Memory locality principles do you know?&lt;/summary>
+ &lt;div class="markdown-inner">
+&lt;p>Temporal locality
+Spatial locality&lt;/p></description></item><item><title/><link>//localhost:1313/docs/computerarchitecture/lab-week-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/computerarchitecture/lab-week-2/</guid><description>&lt;h1 id="lab-week-2">
  Lab Week 2
  &lt;a class="anchor" href="#lab-week-2">#&lt;/a>
 &lt;/h1>
@@ -273,15 +309,4 @@ WB: register Write Back&lt;/p></description></item><item><title/><link>//localho
 &lt;details >&lt;summary>What is the difference between Synchronous and Asynchronous logic circuits?&lt;/summary>
  &lt;div class="markdown-inner">
  &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What is the difference between Volatile and Non-Volatile memory?&lt;/summary>
- &lt;div class="markdown-inner">
- &lt;/div>
-&lt;/details>
-&lt;details >&lt;summary>What memory types do you know?&lt;/summary>
- &lt;div class="markdown-inner">
-&lt;p>DRAM
-SRAM
-ROM
-Flash (SSD)
-Magnetic disks (HDD)&lt;/p></description></item></channel></rss>
+&lt;/details></description></item></channel></rss>
